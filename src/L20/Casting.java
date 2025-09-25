@@ -16,7 +16,7 @@ public class Casting {
         int i = 10;
         double iDouble = i;
         float iFloat = i;
-        long iLong = i;
+        long iLong = i; //test
 
         char x = 'A';
         int xChar = x;
