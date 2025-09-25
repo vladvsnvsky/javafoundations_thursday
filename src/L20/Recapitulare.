@@ -1,0 +1,34 @@
+Ce tip de data are valoarea "5" ? String
+Ce tip de data are valoarea 5 ? int
+Ce tip de data are valoarea 5.0? double
+Ce tip de data are valoarea 'A'? char
+Ce tip de data are valoarea true? boolean
+Ce tip de data are valoarea "false"? String
+Ce tip de data are valoarea 7L? long
+Ce tip de data are valoarea 5.0f? float
+Ce tip de data are valoarea '3F'? Nu se poate
+Ce tip de data are valoarea '\n'? char -> caracterul de final de rand
+Ce tip de data are valoarea "\n"? String
+Ce va afisa codul System.out.print("\"")? "
+
+Challenge: Scrie un cod care afiseaza textul:
+Cuvantul "masina" are 6 caractere.
+
+5.0 --> double
+5.0f --> float
+
+7 --> int
+7F --> Long
+
+Nu putem scrie valoarea unui short, deoarece in Java, valorile numerice
+fara sufix sunt int
+
+Sufixele sunt:
+l sau L -> long
+f sau F -> float
+d sau D -> double (optional)
+
+Ce este casting-ul?
+Casting-ul reprezinta metoda prin care o valoarea poate fi mutata dintr-o
+zona de memorie cu un anumit tip de data, intr-o zona de memorie alocata
+unui alt tip de data.
